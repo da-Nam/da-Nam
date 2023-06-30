@@ -1,8 +1,8 @@
-## Yahallo there! I am Nam
+## Salutations!
 
-Currently a student at NUS High School of Math and Science
+I am coder man. I do stuff
 
-<img src="https://lh3.googleusercontent.com/a/AEdFTp62kilVzPIvVhf6GC-A__nPhsBOluF_LqLlTdOUww=s360-p-no" alt="Logo" width="100"/>        
+# ◉‿◉
 
 <!--
 **da-Nam/da-Nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
